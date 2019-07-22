@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1339018358 source:f:\if\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339015654 f:\if\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1339016884 source:f:\if\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339022858 source:c:\users\tiago\google drive\if\3º sem\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339022858 c:\users\tiago\google drive\if\3º sem\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1339027608 source:c:\users\tiago\google drive\if\3º sem\esd\apresentação - hash table\codigos\hashtableporposicaoconsecutivalivre\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+

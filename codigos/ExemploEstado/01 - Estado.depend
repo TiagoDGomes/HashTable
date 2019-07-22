@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1338154024 source:c:\users\tiago\google drive\if\3º sem\esd\apresentação - hash table\codigos\01 - estado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

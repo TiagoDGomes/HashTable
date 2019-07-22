@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1339026590 source:f:\if\esd\apresentação - hash table\codigos\hashtablesemtratamentodecolisao\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339024584 f:\if\esd\apresentação - hash table\codigos\hashtablesemtratamentodecolisao\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1339026590 source:f:\if\esd\apresentação - hash table\codigos\hashtablesemtratamentodecolisao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+

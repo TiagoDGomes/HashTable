@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1338957022 source:c:\users\tiago\google drive\if\3º sem\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1338998770 source:\\tsclient\e\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1338998758 \\tsclient\e\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1339004404 source:\\tsclient\e\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339029538 source:f:\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
+1339027926 f:\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1339028994 source:f:\if\esd\apresentação - hash table\codigos\hashtableporlistaencadeada\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"hashtable.h"
+
